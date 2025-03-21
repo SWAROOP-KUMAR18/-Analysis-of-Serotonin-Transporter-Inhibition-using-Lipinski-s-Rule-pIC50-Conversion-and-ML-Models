@@ -54,6 +54,11 @@ Usage
 After installing the required packages and dependencies, you can run the project using the following command:
 python main.py
 
+Acknowledgements
+ChEMBL dataset for providing valuable data for drug discovery.
+Scikit-learn, for providing machine learning models and tools for model evaluation.
+RDKit for cheminformatics.
+
 ## Installation
 
 To get started, clone the repository and install the necessary dependencies:
